@@ -1,0 +1,4 @@
+[
+  { "databaseId": "1", "environment": "staging", "targetDatabaseId": "1" },
+  { "databaseId": "1", "environment": "production", "targetDatabaseId": "1-live" }
+]
